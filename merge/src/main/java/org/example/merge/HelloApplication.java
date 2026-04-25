@@ -16,6 +16,8 @@ public class HelloApplication extends Application {
         stage.setScene(scene);
         stage.show();
         System.out.println("cambio en main");
+        System.out.println("otro cambio en main12 ");
+
 
     }
 }
