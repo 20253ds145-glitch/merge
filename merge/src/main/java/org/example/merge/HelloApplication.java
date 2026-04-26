@@ -22,7 +22,7 @@ public class HelloApplication extends Application {
         System.out.println("cambio en David121");
         System.out.println("cambios alas 3desde david");
 
-        System.out.println("cambios de main");
+        System.out.println("cambios main");
 
 
     }
