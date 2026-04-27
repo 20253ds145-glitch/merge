@@ -15,9 +15,20 @@ public class HelloApplication extends Application {
         stage.setTitle("Hello!");
         stage.setScene(scene);
         stage.show();
+        System.out.println("cambio en main");
+        System.out.println("otro cambio en main12 ");
+
+        System.out.println("cambio de main");
         System.out.println("cambio en David1 ");
         System.out.println("cambio en David121");
         System.out.println("cambios de David");
+
+        System.out.println("cambios main");
+        System.out.println("cambios desde asus");
+
+
+
+
 
 
     }
